@@ -1,0 +1,22 @@
+{
+  "name": "boilerplate",
+  "version": "1.0.0",
+  "description": "A front-end dev boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Natasha Banegas",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.10.0",
+    "browserify": "^12.0.1",
+    "del": "^2.1.0",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-eslint": "^1.1.1",
+    "gulp-live-server": "0.0.29",
+    "gulp-sass": "^2.1.0",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
